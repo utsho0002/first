@@ -1,0 +1,134 @@
+
+body.home{
+    background:  #FFB6C1;
+}
+body.page2{
+    background:  #fabce8;
+}
+h1 {
+    font-size: 2.5em;
+    margin-top: 70px;
+    margin-left:100px;
+    color: #800000;
+    font-family: 'Great Vibes', cursive; 
+}
+h2 {
+    font-size: 1.5em;
+    margin-top: 30px;
+    margin-left:100px;
+    color: #d41414;
+    font-family: 'Great Vibes', cursive; 
+}
+.center-link {
+    font-size: 1.2em;
+    text-decoration: none;
+    font-family: 'Dancing Script', cursive; 
+    color: white;
+    background-color: rgba(0, 0, 0, 0.322);
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.center-link {
+    position: relative;
+    top: 50px;
+    left: 40%;
+    transform: translateY(-50%);
+}
+.h1page2{
+    color:#d41414;
+    font-size: 2.0em;
+    font-family: 'Pacifico', cursive;
+    margin-left:260px;
+}
+.flower{
+    height: 300px;
+    width: 500px;
+    margin-top: 10px;
+    margin-left:350px;
+    border-radius: 10px;
+}
+.link2{
+    font-size: 1.2em;
+    text-decoration: none;
+    font-family: 'Dancing Script', cursive; 
+    color: white;
+    background-color: rgba(0, 0, 0, 0.322);
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.link2 {
+    position: relative;
+    top: 60px;
+    left: -320px;
+    transform: translateY(-50%);
+}
+body.page3{
+    background: #1d1d1d;
+}
+.h1page3{
+    color:#f3f3f3;
+    font-size: 2.0em;
+    font-family: 'Pacifico', cursive;
+    margin-left:260px;
+}
+.moon{
+    height: 300px;
+    width: 500px;
+    margin-top: 10px;
+    margin-left:350px;
+    border-radius: 10px;
+}
+.link3{
+    font-size: 1.2em;
+    text-decoration: none;
+    font-family: 'Dancing Script', cursive; 
+    color: rgb(0, 0, 0);
+    background-color: rgba(255, 255, 255, 0.59);
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.link3 {
+    position: relative;
+    top: 60px;
+    left: -320px;
+    transform: translateY(-50%);
+}
+body.page4{
+    background: #f7d6eb;
+}
+.h1page4{
+    color:#c0099b;
+    font-size: 2.0em;
+    font-family: 'Pacifico', cursive;
+    margin-left:330px;
+}
+.link4{
+    font-size: 1.2em;
+    text-decoration: none;
+    font-family: 'Dancing Script', cursive; 
+    color: rgb(247, 74, 169);
+    background-color: rgba(255, 254, 255, 0.59);
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.link4 {
+    position: relative;
+    top: 60px;
+    left: -320px;
+    transform: translateY(-50%);
+}
+body.page5{
+    background: #8ef86163;
+}
+.h1page5{
+    color:#8b0770;
+    font-size: 2.0em;
+    font-family: 'Pacifico', cursive;
+    margin-left:300px;
+}
+h4{
+    color:#f01148;
+    font-size: 1.4em;
+    font-family: 'Pacifico', cursive;
+    margin-left:500px;
+}
